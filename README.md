@@ -1,5 +1,7 @@
 # py-practice
+
 Simple and basic problems coded in python
+
 1. factorial.py : Gives factorial of a number using recursion.
 2. fib.py : Gives fibonacci of a number.
 3. gen_prime.py : Generates prime numbers of given limit
